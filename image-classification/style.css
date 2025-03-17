@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0 2rem;
+    padding: 0;
+}
+
+canvas {
+    display: block;
+}
