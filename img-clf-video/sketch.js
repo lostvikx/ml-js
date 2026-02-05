@@ -25,7 +25,7 @@ function setup() {
 function draw() {
     background(220);
     image(capture, 0, 0, width, height);
-    
+
     let c = color(0, 0, 0);
     c.setAlpha(150);
     fill(c);
